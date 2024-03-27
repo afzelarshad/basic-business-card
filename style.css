@@ -1,0 +1,55 @@
+body{
+    margin: 20px;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #e0e1dd;
+
+}
+
+.my-img{
+    width: 150px;
+    height: 175px;
+}
+.card-container {
+
+    width: 500px;
+    height: 600px;
+    margin: 20px auto 20px auto;
+    
+}
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    border: 3px  solid #1b263b;
+    background-color: #778da9;
+    box-shadow: 5px 5px 5px 5px #0d1b2a;
+
+}
+.img-div {
+    margin-right: 20px;
+}
+.intro-div {
+    text-align: center;
+    color:#2b2839 ;
+
+}
+
+/* Flex Box Practise */
+
+.plan {
+    display: flex;
+    
+}
+.indviduals{
+    margin-right: 20px;
+}
+.enterprises
+{
+    margin-left: 20px;
+}
+
+ /* Inhertitance Practice */
+ .inheritance-container {
+    text-align: center;
+ }
